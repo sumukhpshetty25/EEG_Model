@@ -49,3 +49,6 @@ The pipeline converts EEG time-series data into **spatio-temporal topographic ma
    ```bash
    git clone https://github.com/sumukhpshetty25/EEG_Model.git
    cd EEG_Model
+2. **Open the Jupyter Notebook**
+   ```bash
+     jupyter notebook 3DCNN-BILSTM.ipynb
