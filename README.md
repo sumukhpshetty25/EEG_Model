@@ -52,3 +52,5 @@ The pipeline converts EEG time-series data into **spatio-temporal topographic ma
 2. **Open the Jupyter Notebook**
    ```bash
      jupyter notebook 3DCNN-BILSTM.ipynb
+3. **Run**
+   Run all cells → preprocessing → feature generation → model training → evaluation
